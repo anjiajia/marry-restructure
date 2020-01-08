@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header",
+      "type": "com.mtm.party.mobile.filter.AccessFilter"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.allow-credentials",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.allow-headers",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.allow-methods",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.allow-origin",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.character-encoding",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.mtm.party.mobile.filter.AccessFilter",
+      "name": "response.header.max-age",
+      "type": "java.lang.String"
+    }
+  ]
+}

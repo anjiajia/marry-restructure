@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ecfeac0-66c9-42f1-a839-21c9c80d3842" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="9f8982ef-194f-4fe3-a89b-637f20ced6ec" />
+    </checked>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1W6MkEo5wI4f0QZ4SD9pGnzIhED" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in marry-restructure (1)">
+    <configuration name="All in marry-restructure (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marry-restructure" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in marry-restructure" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="marry-restructure" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="marry-restructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mtm.party.mobile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mtm.party.mobile.MarryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in marry-restructure (1)" />
+        <item itemvalue="JUnit.All in marry-restructure" />
+        <item itemvalue="Spring Boot.MarryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:marry@49.234.125.99" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ecfeac0-66c9-42f1-a839-21c9c80d3842" name="Default Changelist" comment="" />
+      <created>1578465731664</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578465731664</updated>
+      <workItem from="1578465746907" duration="8271000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改第一次">
+      <created>1578475894118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578475894119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改第一次" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改第一次" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Inspections" timestamp="1578466259979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1578466259979" />
+    <state x="693" y="315" width="816" height="725" key="#Intentions" timestamp="1578465903864">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="693" y="315" width="816" height="725" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1578465903864" />
+    <state x="-59" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578473266725">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-59" y="221" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578473266725" />
+    <state x="545" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1578469315644">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="545" y="448" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578469315644" />
+    <state x="518" y="117" key="CommitChangelistDialog2" timestamp="1578475891984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="518" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578475891984" />
+    <state x="741" y="214" key="ExecutionTargetDialog" timestamp="1578473287486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="214" key="ExecutionTargetDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578473287486" />
+    <state x="740" y="264" key="FileChooserDialogImpl" timestamp="1578470452202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578470452202" />
+    <state width="938" height="222" key="GridCell.Tab.0.bottom" timestamp="1578475869259">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578475869259" />
+    <state width="938" height="222" key="GridCell.Tab.0.center" timestamp="1578475869255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578475869255" />
+    <state width="938" height="222" key="GridCell.Tab.0.left" timestamp="1578475869253">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578475869253" />
+    <state width="938" height="222" key="GridCell.Tab.0.right" timestamp="1578475869256">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578475869256" />
+    <state width="938" height="222" key="GridCell.Tab.1.bottom" timestamp="1578470032975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578470032975" />
+    <state width="938" height="222" key="GridCell.Tab.1.center" timestamp="1578470032975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578470032975" />
+    <state width="938" height="222" key="GridCell.Tab.1.left" timestamp="1578470032975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578470032975" />
+    <state width="938" height="222" key="GridCell.Tab.1.right" timestamp="1578470032975">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="938" height="222" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578470032975" />
+    <state width="220" height="477" key="HiddenNamespacesPopup" timestamp="1578473311645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="220" height="477" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1578473311645" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1578470515617">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578470515617" />
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578476229468">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578476229468" />
+  </component>
+</project>
