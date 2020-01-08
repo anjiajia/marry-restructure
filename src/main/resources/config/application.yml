@@ -25,9 +25,9 @@ spring:
     active: dev
   datasource:
     type: com.alibaba.druid.pool.DruidDataSource
-    url: jdbc:mysql://xx.xxx.x.xxx:3306/marry?autoReconnect=true&roundRobinLoadBalance=true&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Hongkong
-    username: xxxx
-    password: xxxx
+    url: jdbc:mysql://49.234.125.99:3306/marry?autoReconnect=true&roundRobinLoadBalance=true&allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8&useSSL=false&serverTimezone=Hongkong
+    username: root
+    password: ANANit123456
     #连接池的配置信息
     driver-class-name: com.mysql.cj.jdbc.Driver #mysql 新版本驱动
     minIdle: 5
@@ -60,5 +60,5 @@ response:
 service:
   imgUploadPath: D:\img\
 #  上传后，通过Tomcat可访问的网络路径
-  imgNetPath: http://49.232.47.21:8080/images/
+  imgNetPath: http://49.234.125.99:8080/images/
 #  imgUploadPath: /usr/local/tools/apache-tomcat-8.5.43/webapps/ROOT/images/
